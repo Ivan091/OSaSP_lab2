@@ -18,7 +18,7 @@ nano 1-1_file.txt
 
 ```
 The storm broke today
-and yhe sun came out.
+and the sun came out.
 ```
 
 Сохраняем нажатием: `Ctrl` + `X`, `Y`, `Enter`.
@@ -37,7 +37,7 @@ cat 1-1_file-link.txt
 
 ```
 The storm broke today
-and yhe sun came out.
+and the sun came out.
 ```
 
 Удаляем файл
