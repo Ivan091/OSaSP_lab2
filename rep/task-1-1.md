@@ -26,13 +26,13 @@ and yhe sun came out.
 Создаём жёсткую ссылку на файл
 
 ```bash
-$ ln 1-1_file.txt 1-1_file-link.txt
+ln 1-1_file.txt 1-1_file-link.txt
 ```
 
 Просматриваем содержимое файла с помощью сслыки
 
 ```bash
-$ cat 1-1_file-link.txt
+cat 1-1_file-link.txt
 ```
 
 ```
@@ -43,13 +43,13 @@ and yhe sun came out.
 Удаляем файл
 
 ```bash
-$ rm 1-1_file.txt
+rm 1-1_file.txt
 ```
 
 Просматриваем содержимое файла с помощью сслыки
 
 ```bash
-$ cat 1-1_file-link.txt
+cat 1-1_file-link.txt
 ```
 
 ```
